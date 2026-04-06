@@ -146,7 +146,7 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## Author
 
-Developed by [Your Name]
+Ghassat Maha
 
 ---
 
